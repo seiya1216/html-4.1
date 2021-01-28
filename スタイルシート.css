@@ -33,6 +33,21 @@ header{
     border-bottom: 2px solid #f2903a;
 
 }
+.main3-1{
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.main3-1 a{
+ text-decoration: none;
+color: black;
+}
+.main3-1 a:hover{
+  border-bottom:  2px solid #f2903a;
+}
+.main3-1 span{
+color: #f2903a;
+}
   .sns{
     padding-top: 300px;
   position: fixed;
