@@ -261,3 +261,413 @@ footer{
   .p p{
       color: gray;
   }
+  @media(max-width:780px){
+    header{
+        max-width: px;
+    }
+.logo{
+    width: px;
+    transform: translateY(40px);
+}
+.se{
+    transform: translateX(300px);
+    font-size: 35px;
+
+    transform: translateX(px);
+}
+.se li{
+    padding-left: 35px;
+    transform: translateX(px);
+}
+.se ul{
+    width: 1300px;
+}
+.main-img{
+    background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/u_mv1.jpg) ;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 2100px;
+}
+.main{
+
+}
+.main-me{
+ 
+}
+.main-me h2{
+font-size: 80px;
+}
+.main-me span{
+font-size: 60px;
+}
+.main2{
+
+}
+.main3-1{
+width: 1000px;
+}
+.main3-1 a{
+font-size: 40px;
+}
+.main3-1 span{
+font-size: 40px;
+width: px;
+}
+.title2 img{
+    width: 60px;
+    height: 60px;
+    padding-left: 50px;
+}
+.title2 h3{
+    transform: translateY(-100px);
+    font-size: 80px;
+}
+.me2 p{
+font-size: 35px;
+padding-left: 60px;
+width: 800px;
+}
+.img2 img{
+    width: 900px;
+    margin-left: 100px;
+}
+.img2-1 p{
+    
+}
+.main3{
+
+}
+.title3 img{
+    width: 80px;
+    height: 60px;
+    transform: translateY(50px);
+}
+.title3 h3{
+    font-size: 80px;
+
+}
+.title3{
+    width: 2000px;
+}
+.me-box{
+transform: translateX(-20px);
+}
+.box3{
+
+}
+.me3{
+width: 800px;
+}
+.box3{
+    width: 600px;
+}
+.box3 span{
+font-size: 35px;
+}
+.box3 p{
+    font-size: 25px;
+}
+.box3-1{
+width: 600px;
+}
+.box3-1 span{
+    font-size: 35px;
+}
+.box3-1-1{
+
+}
+.box3-1-1 p{
+font-size: 25px;
+}
+.title4{
+
+}
+.title4 img{
+    width: 80px;
+    height: 60px;
+    transform: translateY(px);
+}
+.title4 span{
+font-size: 80px;
+}
+.table_border{
+width: 2000px;
+}
+.table_border th{
+font-size: 30px;
+}
+.table_border td{
+font-size: 30px;
+}
+.footer{
+
+    transform: translateY(px);
+    width: 1200px;
+}
+.footer img{
+    transform: translateY(px);
+}
+.diplay{
+    width: px;
+}
+.se-1 {
+font-size: 30px;
+margin-right: px;
+transform: translateX(-250px);
+
+}
+.se-1 ul{
+    width: 1200px;
+    transform: translateX(320px);
+}
+.se-1 li{
+    font-size:px ;
+    width: px;
+    margin-right: px;
+}
+.se-1 span{
+ width: px;
+}
+.p{
+   
+    width: 750px;
+    font-size: 25px;
+    transform: translateX(200px);
+    margin-right: px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:420px){
+    .logo{
+        width: px;
+        transform: translateY(px);
+    }
+    .se{
+        transform: translateX(220px);
+        padding-top: 30px;
+        font-size: 25px;
+    }
+    .se li{
+        padding-left: px;
+        transform: translateX(px);
+    }
+    .se ul{
+        width: 1000px;
+    }
+    .main-img{
+        background-image:url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/u_mv1.jpg) ;
+        min-height: 100vh;
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 1700px;
+    }
+    .main{
+        
+    }
+    .main-me{
+     
+    }
+    .main-me h2{
+    font-size: px;
+    }
+    .main-me span{
+    font-size: px;
+    }
+    .main2{
+       transform:translateX(-30px)
+    }
+    .main3-1{
+    width: px;
+    }
+    .main3-1 a{
+    font-size: px;
+    }
+    .main3-1 span{
+    font-size: px;
+    width: px;
+    }
+    .title2 img{
+        width: 210px;
+        height: 150px;
+        transform: translateX(-40px);
+    }
+    .title2 h3{
+        font-size: 90px;
+        padding-top: 50px;
+        padding-left: 20px;
+    }
+    .title2{
+        width: 1200px;
+        display:flex;
+        flex-direction: column;
+        transform: translateX(30px);
+    }
+    .me2{
+        display:flex;
+        flex-direction: column;
+    }
+    .me2 p{
+    font-size: 60px;
+    padding-left: px;
+    width: 1500px;
+    
+}
+    .img2 img{
+        width: 1500px;
+        height: 1100px;
+        transform: translateX(-120px);
+        
+    }
+    .img2-1 p{
+        
+    }
+    .main3{
+    transform: translateY(500px);
+    margin-left: 30px;
+    }
+    .title3 img{
+        width: 210px;
+        height: 150px;
+        
+        transform: translateY(px);
+    }
+    .title3 h3{
+        font-size: px;
+    padding-top: 50px;
+    padding-left: 20px;
+    }
+    .title3{
+        width: 1500px;
+        display:flex;
+        flex-direction: column;
+    }
+    .me-box{
+    transform: translateX(px);
+    }
+    .me-box{
+        display:flex;
+        flex-direction: column;
+    }
+    .me3{
+    width: 1500px;
+    margin-bottom: 100px;
+    height:650px;
+    }
+    .box3{
+        padding-bottom: 100px;
+        width: 1500px;
+    }
+    .box3 span{
+    font-size: 90px;
+    
+    }
+    .box3 p{
+        font-size: 80px;
+    }
+    .box3-1{
+    width: px;
+    
+    }
+    .box3-1 span{
+        font-size: 90px;
+    }
+    .box3-1-1{
+    width: 1500px;
+    }
+    .box3-1-1 p{
+    font-size: 80px;
+    }
+    .title4{
+        transform: translateY(500px);
+        display:flex;
+        flex-direction: column;
+    }
+    .title4 img{
+        width: 210px;
+        height: 150px;
+        transform: translateY(px);
+    }
+    .title4 span{
+    font-size: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+    }
+    .table_border{
+    width: 1500px;
+    transform: translateY(500px);
+    display:flex;
+        flex-direction: column;
+    }
+    .table_border th{
+    font-size: 60px;
+    }
+    .table_border td{
+    font-size: 60px;
+    }
+    .main4{
+        margin-left: 30px;
+    }
+    .footer{
+        transform: translateY(500px);
+        display:flex;
+        flex-direction: column;
+    }
+    .footer img{
+        transform: translateY(px);
+    }
+    .diplay{
+        width: px;
+    }
+    .se-1 {
+    font-size: px;
+    margin-left: px;
+    transform: translateX(px);
+    padding-top: 50px;
+    width: 500px;
+    }
+    .se-1 ul{
+        width: px;
+        transform: translateX(-100px);
+    }
+    .se-1 li{
+        font-size:30px ;
+        width: px;
+        margin-right: px;
+        display:flex;
+        flex-direction: column;
+    }
+    .se-1 span{
+     width: px;
+    }
+    .p{
+        transform: translateY(500px);
+        width: px;
+        font-size: px;
+        transform: translateX(px);
+        margin-right: px;
+        display: none;
+    }
+    .sns{
+        display: none;
+    }
+}
